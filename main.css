@@ -1,0 +1,90 @@
+body{
+	background-color: #1D1D1B;
+}
+#container{
+	width: 75%;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 0;
+	font-family: 'Arimo', sans-serif;
+	display: relative;
+}
+.box{
+	width: 100%;
+	font-size: 15px;
+	padding: 10px;
+	border: ;
+	position: relative;
+	text-align: center;
+	color: #777777;
+}
+#logo{
+	height: 100px;
+	width: 150px;
+	float: left;
+}
+#header{
+	padding-top: 30px;
+	border-bottom: solid 1px #FFF;
+}
+#filmlogo{
+	width: 75%;
+	height: 173px;
+	border-radius: 10px;
+	border: 1px solid #FFF;
+}
+.videopad{
+	padding-top: 50px;
+}
+li{
+	display: inline-block;
+	font-size: 15px;
+	color: #777777;
+	text-align: right;
+	margin-left: 50px;
+	margin-right: 10px;
+	padding-top: 60px;
+}
+nav{
+	text-align: right;
+}
+h2{
+	text-align: center;
+	color: #FFF;
+}
+#play{
+	width: 50px;
+	height:50px;
+	text-align: right;
+}
+a{
+	color: #777777;
+	text-decoration: none;
+}
+a:hover{
+	color: #FFF;
+	text-decoration: none;
+}
+.white-text{
+	color: #FFF;
+}
+.circle-img{
+	border-radius: 10px;
+	border: solid 1.5px #FFF;
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+p{
+	padding: 10px;
+}
+.left-align{
+	text-align: left;
+}
+.smallpad{
+	padding-top: 0px;
+	margin-top: 0px;
+}
